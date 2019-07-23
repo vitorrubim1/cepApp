@@ -1,6 +1,6 @@
 {
-  "name": "blank",
-  "version": "0.0.1",
+  "name": "meucep-app",
+  "version": "1.0.0",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
